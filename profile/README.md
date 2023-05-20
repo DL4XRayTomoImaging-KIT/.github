@@ -39,6 +39,10 @@ Starting from simple shape related ones (volume, convex volume) down to complex 
 A somewhat good example of the configuration is [this config for measurement of brain segmentation](https://github.com/DL4XRayTomoImaging-KIT/measuring-repo/blob/new_metrics/measurement_configs/measurement/brain.yaml).
 This is the only repository, where the output is stored in a database. Either it is sqlite or MongoDB.
 
+### [Pipeline Demo](https://github.com/DL4XRayTomoImaging-KIT/pipeline-demo)
+Contains an example of the pipeline inference.
+It requires samples from the Medaka project, but otherwise is self-sufficient.
+
 ## Off The Pipeline
 
 Here are some repos that aren't part of the pipeline.
